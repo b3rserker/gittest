@@ -1,4 +1,4 @@
 gittest
 =======
 
-Only for (Git) testing purposes
+Only for (Git) API testing purposes
